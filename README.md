@@ -12,7 +12,7 @@
 
 ## 🛠️ Skills
 
-- **Languages:** Python, TypeScript
+- **Languages:** Rust, Python, TypeScript
 - **Frameworks:** React
 - **Cloud & DevOps:** AWS, CI/CD
 - **Specialities:** Microservices Architecture, Test Automation, System Scalability
